@@ -7,7 +7,7 @@ const IndexPage = () => {
 
   return (
     <main className="flex w-screen h-screen justify-center items-center">
-      <title>Jack Qiu's website</title>
+      <title>Journ'ack</title>
       <meta name="Jack Qiu's website" content="Jack Qiu's website"></meta>
       <link
         rel="icon"
