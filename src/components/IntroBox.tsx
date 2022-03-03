@@ -19,7 +19,7 @@ export default function IntroBox({
         <LogoClickable
           imagePath="/logos/LinkedIn.png"
           altDescription="LinkedIn"
-          link="https://www.linkedin.com/in/jack-q-376060183/"
+          link="https://www.linkedin.com/in/jacktheqiu/"
         />
         <LogoClickable
           imagePath="/logos/GitHub.png"
